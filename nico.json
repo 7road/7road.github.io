@@ -1,0 +1,13 @@
+{
+  "source": "content",
+  "output": "./",
+  "theme": "_themes/one",
+  "permalink": "{{directory}}/{{filename}}.html",
+  "sitename": "7Road",
+  "github": "https://github.com/7road/7road.github.io",
+  "writers": [
+    "nico.PostWriter",
+    "nico.FileWriter",
+    "nico.StaticWriter"
+  ]
+}
