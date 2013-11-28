@@ -3,7 +3,7 @@
   "output": "./",
   "theme": "_themes/one",
   "permalink": "{{directory}}/{{filename}}.html",
-  "sitename": "7road",
+  "sitename": "7road style",
   "github": "https://github.com/7road/7road.github.io",
   "writers": [
     "nico.PostWriter",
